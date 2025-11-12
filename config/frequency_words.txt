@@ -1,9 +1,22 @@
+GoLang
+Python
+Vue3
+Swift
+Flutter
+Uniapp
+MySql
+Linux
+PHP
+Javascript
+
+AI
+ai
+
 京东
 刘强东
 
 字节
 bytedance
-张一鸣
 
 特斯拉
 马斯克
@@ -22,40 +35,31 @@ google
 gemini
 
 chatgpt
-openai
-
 claude
-Anthropic
+cursor
 
 iphone
 ipad
 mac
 ios
 
-ai
-人工智能
-
-自动驾驶
-
-机器人
-
-国产
-中国
-
-美国
-日本
-韩国
-
-芯片
-光刻机
-
 科技
+物联网
+智能机器人
 
-核能
+军工
+战斗机
+轰炸机
 
 月球
 登月
 火星
 宇宙
 飞船
-航空
+
+新华社
+人民日报
+央视新闻
+BBC
+彭博社
+路透社
